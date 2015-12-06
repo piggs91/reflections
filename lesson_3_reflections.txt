@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+It is quite helpful if you want to share your work to public rather keeping it private.
+Also , it is quite helpful for code sharing and collabration.
