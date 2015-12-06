@@ -1,3 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work local?
 It is quite helpful if you want to share your work to public rather keeping it private.
 Also , it is quite helpful for code sharing and collabration.
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+we usually do many commit .however , it should not be shared to public unless it is ready to do so.
+Hence , maual update is preferred over automatic .
